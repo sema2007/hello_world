@@ -43,7 +43,7 @@ for jj in range(len(st['city'])):
             except:
                 next
                 
-        wb.Save()
+        #wb.Save()
 
         
         print (ii['id'])
